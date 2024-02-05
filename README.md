@@ -1,5 +1,7 @@
 Sawan Sales Ecommerce Dashboard
-This Sales Dashboard is a data visualization project aimed at providing insightful analytics for sales data.
+
+
+This Sales Dashboard is a data visualization project aimed at providing insightful analytics for sales data and developed by using PowerBi.
 It offers a comprehensive overview of sales performance, trends, and patterns through interactive charts and graphs.
 
 Features
